@@ -7,7 +7,7 @@
 The first pass to contribute is install in your machine some tools
 [Git]((https://git-scm.com)), [Node.js 16](https://nodejs.org/en/).
 
-1. clone this project with ``` git clone ```
+1. clone this project with ``` git clone git@github.com:Brunobmendes/poetic-shrimp.git ```
 2. go to project folder ``` cd poetic-shrink ```
 3. install the dependencies with ``` npm install ```
 4. go to main branch with command ``` git checkout main ```
