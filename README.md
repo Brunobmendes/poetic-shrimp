@@ -1,6 +1,6 @@
 # Poetic-Shrimp
 
-  This project is made with a one objective: approach poets and other writes for you work get more visibility
+  This project is made with a one objective: approach poets and other writers for you work get more visibility
 
 ## How to contribute?
 
